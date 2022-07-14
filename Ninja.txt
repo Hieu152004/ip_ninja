@@ -1,1 +1,1 @@
-Test:0.tcp.ap.ngrok.io:12640:0:0
+Nso buruto:0.tcp.ap.ngrok.io:19155:0:0
